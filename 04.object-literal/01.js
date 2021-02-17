@@ -29,3 +29,5 @@ console.log(user);
 
 user.logIn();
 user.logBlogs();
+
+console.groupEnd();

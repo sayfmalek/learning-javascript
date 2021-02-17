@@ -1,0 +1,20 @@
+.error {
+   padding: 10px;
+   color: crimson;
+   border: 1px solid crimson;
+}
+
+.success {
+   padding: 10px;
+   color: limegreen;
+   border: 1px solid limegreen;
+}
+
+#todo li {
+   list-style-type: none;
+   max-width: 800px;
+   padding: 8px;
+   margin: 8px auto;
+   background: #eee;
+   border: 1px dotted #ddd;
+}
